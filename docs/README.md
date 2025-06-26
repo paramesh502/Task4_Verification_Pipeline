@@ -1,7 +1,7 @@
 # IRC 2025 Rover Automation Verification Pipeline
 
 ## Overview
-This pipeline verifies automation code for the IRC 2025 rover, ensuring reliability and compliance with mission requirements.
+This pipeline verifies automation code for the IRC rover, ensuring reliability and compliance with mission requirements.
 
 ## Setup
 1. Extract this folder.
